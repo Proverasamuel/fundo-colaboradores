@@ -84,7 +84,7 @@ O sistema segue uma arquitetura baseada em **API REST**, com separação clara e
 ### 🔧 Backend (Laravel)
 
 ```bash
-git clone https://github.com/seuuser/fundo-financeiro.git
+git clone https://github.com/Proverasamuel/fundo-colaboradores.git
 cd fundo-financeiro
 
 composer install
